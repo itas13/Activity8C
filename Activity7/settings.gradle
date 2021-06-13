@@ -1,0 +1,2 @@
+rootProject.name = "Activity7"
+include ':app'
